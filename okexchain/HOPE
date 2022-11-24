@@ -1,0 +1,11 @@
+{
+ "name": "TokenPocket HOPE",
+ "website": "https://t.me/HOPEguanfang",
+  "description": "A leading multi-chain wallet that supports OKEXchain",
+   "explorer": "https://www.oklink.com/touken/0x494a1F9DDBb3A332EcFAc1f3270FE158C6723062",
+    "type": "KIP20",
+     "symbol": "HOPE",
+      "decim": 6,
+       "status":"active"
+        "id": "0x494a1F9DDBb3A332EcFAc1f3270FE158C6723062"
+       }
